@@ -1,15 +1,13 @@
 MODS = {
     [1841609972] = true; -- ass
- 
     [888817863] = true; -- ass
-    [3190437525] = true; -- ass
+
 }
 
 ADMIN = {
     [1841609972] = true; -- ass
-  
     [888817863] = true; -- ass
-    [3190437525] = true; -- ass
+    
 }
 
 --// Don't mess with anything below this
